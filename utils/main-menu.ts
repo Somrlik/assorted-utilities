@@ -20,4 +20,14 @@ export const menuItems: MainMenuItem[] = [
     title: 'String utilities',
     to: '/string-utils',
   },
+  {
+    icon: 'mdi-chart-bubble',
+    title: 'Paste/drag analyzer',
+    to: '/paste-analyzer',
+  },
+  {
+    icon: 'mdi-chart-bubble',
+    title: 'Screenshot editor',
+    to: '/screenshot-editor',
+  },
 ];
